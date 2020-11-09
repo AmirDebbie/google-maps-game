@@ -1,9 +1,10 @@
-.test {
+.paper {
   height: 50vh;
+  min-height: 380px;
   width: 15vw;
   background-color: white;
   position: absolute;
-  z-index: 10000;
+  z-index: 10;
   left: 7%;
   top: 7%;
   padding: 30px;
@@ -11,7 +12,7 @@
   border-radius: 7px;
   text-align: center;
   box-shadow: 5px 10px 18px #857e7e;
-  min-width: 110px;
+  min-width: 220px;
 }
 
 .nextButton{

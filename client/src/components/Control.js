@@ -40,7 +40,7 @@ export default function Control({
   };
   return (
     <Draggable bounds="*">
-      <div className="test">
+      <div className="paper">
         <h2>מרחק טעויות: {score}</h2>
         <h3>:עליך למצוא את</h3>
         <div className="locationText">
