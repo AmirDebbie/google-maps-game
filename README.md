@@ -1,6 +1,14 @@
 # Google Maps Game
 This is a simple game made with react and the Google maps API.
 
+## How To Run
+cd to client directory and run npm install, and then run "npm start" to run the app:
+```
+cd client
+npm install
+npm start
+```
+
 ## Game Rules
 - In each turn, you will be required to find on the map the location of israeli settlements.
 - The distance in km you had from the settlement, will be added to your score. This
