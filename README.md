@@ -1,5 +1,5 @@
 # Google Maps Game
-This is a simple game made with react and the Google maps API.
+This is a simple game made with react and the Google maps API. \
 Decided to make this project because i wanted to learn about the Google Maps API, and ended up developing a nice mini game.
 
 ## How To Run
