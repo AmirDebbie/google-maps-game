@@ -17,6 +17,6 @@ npm start
 - You also start the game having one clue, and if you succeed in finding the target settlement (20 km or less), you will be given another clue.
 
 
-## Pictures
+## Preview
 <br />
 <img src="./Pictures/Screenshot 2020-11-10 141222.png" />
