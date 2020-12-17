@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/google-maps-game/static/css/main.73bf1a45.chunk.css",
-    "main.js": "/google-maps-game/static/js/main.885453c4.chunk.js",
-    "main.js.map": "/google-maps-game/static/js/main.885453c4.chunk.js.map",
+    "main.js": "/google-maps-game/static/js/main.e7041026.chunk.js",
+    "main.js.map": "/google-maps-game/static/js/main.e7041026.chunk.js.map",
     "runtime-main.js": "/google-maps-game/static/js/runtime-main.6cc2c54b.js",
     "runtime-main.js.map": "/google-maps-game/static/js/runtime-main.6cc2c54b.js.map",
     "static/js/2.01bd4117.chunk.js": "/google-maps-game/static/js/2.01bd4117.chunk.js",
     "static/js/2.01bd4117.chunk.js.map": "/google-maps-game/static/js/2.01bd4117.chunk.js.map",
     "index.html": "/google-maps-game/index.html",
-    "precache-manifest.a1709096fc4cd60db4635a179b71c7c2.js": "/google-maps-game/precache-manifest.a1709096fc4cd60db4635a179b71c7c2.js",
+    "precache-manifest.e2d0c6538e11929a856454445151a441.js": "/google-maps-game/precache-manifest.e2d0c6538e11929a856454445151a441.js",
     "service-worker.js": "/google-maps-game/service-worker.js",
     "static/css/main.73bf1a45.chunk.css.map": "/google-maps-game/static/css/main.73bf1a45.chunk.css.map",
     "static/js/2.01bd4117.chunk.js.LICENSE.txt": "/google-maps-game/static/js/2.01bd4117.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6cc2c54b.js",
     "static/js/2.01bd4117.chunk.js",
     "static/css/main.73bf1a45.chunk.css",
-    "static/js/main.885453c4.chunk.js"
+    "static/js/main.e7041026.chunk.js"
   ]
 }
