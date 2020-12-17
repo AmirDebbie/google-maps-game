@@ -2,6 +2,9 @@
 This is a simple game made with react and the Google maps API. \
 Decided to make this project because i wanted to learn about the Google Maps API, and ended up developing a nice mini game.
 
+## GitHub Pages Link
+http://AmirDebbie.github.io/google-maps-game
+
 ## How To Run
 cd to client directory and run npm install, and then run "npm start" to run the app:
 ```
