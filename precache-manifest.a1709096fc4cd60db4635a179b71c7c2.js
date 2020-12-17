@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90ad944f68b402805ffec10195f63063",
+    "revision": "a27c9faf959dd9a87eadd6b67edef9e4",
     "url": "/google-maps-game/index.html"
   },
   {
-    "revision": "0e9225ef06502773d718",
+    "revision": "ba9c511df85fbe6e64bb",
     "url": "/google-maps-game/static/css/main.73bf1a45.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/google-maps-game/static/js/2.01bd4117.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e9225ef06502773d718",
-    "url": "/google-maps-game/static/js/main.e7041026.chunk.js"
+    "revision": "ba9c511df85fbe6e64bb",
+    "url": "/google-maps-game/static/js/main.885453c4.chunk.js"
   },
   {
     "revision": "c3388b37e5870d7296db",
